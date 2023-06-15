@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for The Posters Project	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Nett hier.	</title>
+	<atom:link href="/nett-hier/feed/" rel="self" type="application/rss+xml" />
+	<link>/nett-hier/</link>
 	<description></description>
 	<lastBuildDate>Wed, 14 Jun 2023 23:59:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
